@@ -65,9 +65,9 @@ The dataset contains student academic details such as:
 - Encourage regular attendance.
 - Provide additional support for low-performing students.
 - Conduct regular assessments.
-
 ## Project Structure
 
+```text
 Student-Performance-Analysis
 │
 ├── Dataset
@@ -87,6 +87,7 @@ Student-Performance-Analysis
 │   └── Student_Performance_Analysis_Report.docx
 │
 └── README.md
+```
 
 ## Author
 
