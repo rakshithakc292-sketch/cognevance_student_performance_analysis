@@ -82,3 +82,7 @@ The dataset contains student academic details such as:
 ### Correlation Heatmap
 
 ![Correlation Heatmap](Charts/Correlation_Heatmap.png)
+
+### Attendance vs Academic Performance
+
+![Attendance vs Academic Performance](Charts/Attendance_vs_Performance.png)
