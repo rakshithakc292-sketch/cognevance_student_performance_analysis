@@ -15,6 +15,9 @@ This project is completed as part of the Cognevance Technologies Data Science & 
 - Generate insights and recommendations
 
 ## Dataset
+Dataset Source:
+
+Kaggle - Students Performance Dataset
 
 The dataset contains student academic details such as:
 
@@ -64,12 +67,56 @@ The dataset contains student academic details such as:
 - Conduct regular assessments.
 
 ## Project Structure
+
+Student-Performance-Analysis
+│
+├── Dataset
+│   └── cleaned_student_performance.csv
+│
+├── Notebook
+│   └── Student_Performance_Analysis.ipynb
+│
+├── Charts
+│   ├── Attendance_vs_Performance.png
+│   ├── Average_Marks_by_Gender.png
+│   ├── Average_Marks_Distribution.png
+│   ├── Gender_Distribution.png
+│   └── Correlation_Heatmap.png
+│
+├── Report
+│   └── Student_Performance_Analysis_Report.docx
+│
+└── README.md
+
 ## Author
 
 **Rakshitha K C**
 
 Data Science & Data Analytics Intern  
 Cognevance Technologies
+
+## How to Run the Project
+
+1. Clone the repository
+
+2. Install required libraries:
+
+pip install pandas numpy matplotlib seaborn jupyter
+
+3. Open Jupyter Notebook:
+
+jupyter notebook
+
+4. Run Student_Performance_Analysis.ipynb
+
+## Future Improvements
+
+- Use real attendance data instead of generated values.
+- Apply Machine Learning models for performance prediction.
+- Create an interactive dashboard using Power BI.
+- Analyze more student factors affecting performance.
+
+
 
 ## Project Visualizations
 
