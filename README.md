@@ -64,3 +64,21 @@ The dataset contains student academic details such as:
 - Conduct regular assessments.
 
 ## Project Structure
+
+## Project Visualizations
+
+### Average Marks by Gender
+
+![Average Marks by Gender](Charts/Average_Marks_by_Gender.png)
+
+### Average Marks Distribution
+
+![Average Marks Distribution](Charts/Average_Marks_Distribution.png)
+
+### Gender Distribution
+
+![Gender Distribution](Charts/Gender_Distribution.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](Charts/Correlation_Heatmap.png)
