@@ -64,6 +64,12 @@ The dataset contains student academic details such as:
 - Conduct regular assessments.
 
 ## Project Structure
+## Author
+
+**Rakshitha K C**
+
+Data Science & Data Analytics Intern  
+Cognevance Technologies
 
 ## Project Visualizations
 
