@@ -91,20 +91,6 @@ Student-Performance-Analysis
 Data Science & Data Analytics Intern  
 Cognevance Technologies
 
-## How to Run the Project
-
-1. Clone the repository
-
-2. Install required libraries:
-
-pip install pandas numpy matplotlib seaborn jupyter
-
-3. Open Jupyter Notebook:
-
-jupyter notebook
-
-4. Run Student_Performance_Analysis.ipynb
-
 ## 🚀 Future Enhancements
 
 - Use real attendance data instead of generated values.
