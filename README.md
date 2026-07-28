@@ -1,12 +1,12 @@
-# Student Performance Analysis
+# 📊 Student Performance Analysis
 
-## Project Overview
+## 🚀Project Overview
 
 This project analyzes student academic performance data to identify patterns, trends, and relationships using Data Analytics techniques.
 
 This project is completed as part of the Cognevance Technologies Data Science & Data Analytics Internship.
 
-## Objectives
+## 🎯Objectives
 
 - Analyze student academic performance data
 - Clean and preprocess the dataset
@@ -14,7 +14,7 @@ This project is completed as part of the Cognevance Technologies Data Science & 
 - Create data visualizations
 - Generate insights and recommendations
 
-## Dataset
+## 📂Dataset
 Dataset Source:
 
 Kaggle - Students Performance Dataset
@@ -28,7 +28,7 @@ The dataset contains student academic details such as:
 - Average Marks
 - Attendance
 
-## Tools and Technologies Used
+## 🛠️ Tools and Technologies Used
 
 - Python
 - Pandas
@@ -38,7 +38,7 @@ The dataset contains student academic details such as:
 - Jupyter Notebook
 - GitHub
 
-## Project Workflow
+## ⚙️Project Workflow
 
 1. Data Collection
 2. Data Cleaning and Preprocessing
@@ -47,25 +47,20 @@ The dataset contains student academic details such as:
 5. Insights Generation
 6. Report Preparation
 
-## Visualizations Created
+## 📈 Visualizations Created
 
 - Average Marks by Gender (Bar Chart)
 - Average Marks Distribution (Histogram)
 - Gender Distribution (Pie Chart)
 - Correlation Heatmap
 
-## Key Insights
+## 💡Key Insights
 
 - Student performance patterns were analyzed using visualization techniques.
 - Different subjects show relationships with overall performance.
 - Performance trends can help identify improvement areas.
 
-## Recommendations
-
-- Encourage regular attendance.
-- Provide additional support for low-performing students.
-- Conduct regular assessments.
-## Project Structure
+## 📁Project Structure
 
 ```text
 Student-Performance-Analysis
@@ -89,7 +84,7 @@ Student-Performance-Analysis
 └── README.md
 ```
 
-## Author
+## 👩‍💻Author
 
 **Rakshitha K C**
 
@@ -110,7 +105,7 @@ jupyter notebook
 
 4. Run Student_Performance_Analysis.ipynb
 
-## Future Improvements
+## 🚀 Future Enhancements
 
 - Use real attendance data instead of generated values.
 - Apply Machine Learning models for performance prediction.
@@ -119,7 +114,7 @@ jupyter notebook
 
 
 
-## Project Visualizations
+## 📊 Project Visualizations
 
 ### Average Marks by Gender
 
@@ -140,3 +135,18 @@ jupyter notebook
 ### Attendance vs Academic Performance
 
 ![Attendance vs Academic Performance](Charts/Attendance_vs_Performance.png)
+
+
+📬 Contact
+📧 Email: rakshithakc292@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/rakshitha-kc-174049352/
+
+💻 GitHub:
+
+### ⭐ Acknowledgement
+
+
+### 📜 License
+This project is created for learning, portfolio, and educational purposes.
