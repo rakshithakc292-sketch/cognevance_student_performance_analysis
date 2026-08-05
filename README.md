@@ -129,7 +129,7 @@ Cognevance Technologies
 💼 LinkedIn:
 https://www.linkedin.com/in/rakshitha-kc-174049352/
 
-💻 GitHub:
+💻 GitHub: https://github.com/rakshithakc292-sketch
 
 ### ⭐ Acknowledgement
 
